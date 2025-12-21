@@ -1,4 +1,4 @@
-# valyuta_cevirici
+# ValyutaCevirici
 
 A new Flutter project.
 
